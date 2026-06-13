@@ -38,7 +38,7 @@ const products = [
   {
     name: "Malle Ancestrale Ornée",
     description: "Pièce de collection finement travaillée, malle ancestrale richement ornée et sculptée.",
-    image: "/images/product-012.jpeg",
+    image: "/images/product-021.jpeg",
     whatsappMessage: "Bonjour, je souhaite commander la Malle Ancestrale Ornée.",
   },
 ];
