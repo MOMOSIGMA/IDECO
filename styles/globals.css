@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --wood-dark: #2d1e15;
+  --wood-light: #f4e1d2;
+}
+
+body {
+  background-color: var(--wood-light);
+  color: var(--wood-dark);
+  font-family: 'Inter', sans-serif;
+}

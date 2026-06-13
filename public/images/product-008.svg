@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="velvet" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f3e2cb"/>
+      <stop offset="100%" stop-color="#c19b75"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" rx="48" fill="#221f1d"/>
+  <rect x="90" y="150" width="620" height="300" rx="34" fill="#ebe4da"/>
+  <rect x="140" y="200" width="520" height="200" rx="30" fill="url(#velvet)"/>
+  <path d="M160 250h480" stroke="#8f765b" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="350" cy="345" r="34" fill="#fff9ea"/>
+  <circle cx="450" cy="345" r="34" fill="#fff9ea"/>
+  <text x="400" y="435" text-anchor="middle" fill="#4d3b2a" font-family="Georgia, serif" font-size="42" font-weight="700">Desk Atelier</text>
+  <text x="400" y="485" text-anchor="middle" fill="#6b553f" font-family="Georgia, serif" font-size="24">Élégance contemporaine</text>
+</svg>
