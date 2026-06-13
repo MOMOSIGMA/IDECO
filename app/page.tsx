@@ -6,10 +6,10 @@ import ImageModal from '../components/ImageModal';
 
 const products = [
   {
-    name: 'Malle Ancestrale',
-    description: 'Scène sculpturale sur bois et matière, présentée comme une œuvre d’art.',
+    name: 'Ensemble Cuisine Artisanal',
+    description: 'Cuisinière, armoire et tablier de cuisine en bois travaillé, pièces maîtresses de l'artisanat.',
     image: '/images/product-002.jpeg',
-    whatsappMessage: 'Bonjour, je souhaite commander la Malle Ancestrale.',
+    whatsappMessage: 'Bonjour, je souhaite commander l'Ensemble Cuisine Artisanal.',
   },
   {
     name: 'Coffre Prestige',
@@ -18,10 +18,10 @@ const products = [
     whatsappMessage: 'Bonjour, je souhaite commander le Coffre Prestige.',
   },
   {
-    name: 'Malle de Voyage Luxe',
-    description: 'Objet de collection pour un intérieur galeries d’art.',
+    name: 'Table à Manger Raffinée',
+    description: 'Ensemble de salle à manger en bois brillant avec chaises d'élégance, finition luxueuse.',
     image: '/images/product-009.jpeg',
-    whatsappMessage: 'Bonjour, je souhaite commander la Malle de Voyage Luxe.',
+    whatsappMessage: 'Bonjour, je souhaite commander la Table à Manger Raffinée.',
   },
   {
     name: 'Étagère Musée',
@@ -36,10 +36,10 @@ const products = [
     whatsappMessage: 'Bonjour, je souhaite commander le Desk Atelier.',
   },
   {
-    name: 'Sculpture Intérieure',
-    description: 'Œuvre d’ameublement inspirée des lignes organiques.',
+    name: 'Malle Ancestrale Ornée',
+    description: 'Pièce de collection finement travaillée, malle ancestrale richement ornée et sculptée.',
     image: '/images/product-012.jpeg',
-    whatsappMessage: 'Bonjour, je souhaite commander la Sculpture Intérieure.',
+    whatsappMessage: 'Bonjour, je souhaite commander la Malle Ancestrale Ornée.',
   },
 ];
 
